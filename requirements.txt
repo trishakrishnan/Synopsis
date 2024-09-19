@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib  
+streamlit
+groq
+python-dotenv
+pytest
+flake8
+black
+pre-commit
+langchain  # For LLM-based prompt templates and chains
+openai
+langchain-community
+requests
